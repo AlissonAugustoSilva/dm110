@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<application xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_6.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="6">
+  <module>
+    <web>
+      <web-uri>war-0.1-SNAPSHOT.war</web-uri>
+      <context-root>dm110</context-root>
+    </web>
+  </module>
+  <module>
+    <ejb>ejb-0.1-SNAPSHOT.jar</ejb>
+  </module>
+  <library-directory>lib</library-directory>
+</application>
